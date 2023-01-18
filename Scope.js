@@ -11,7 +11,6 @@ function a() {
     {
         let x = 2;
         console.log("Block Scope: ",x);
-
     }
     console.log("Function Scope: ",x);
 
